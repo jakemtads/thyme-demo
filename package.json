@@ -1,0 +1,15 @@
+{
+  "name": "beachblvdofcars",
+  "version": "1.0.0",
+  "description": "MicroS Theme Demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/jakemtads/ms-demo-auto.git"
+  },
+  "author": "Jake Devs",
+  "license": "ISC"
+}
